@@ -68,3 +68,4 @@ button.layer.cornerRadius = 22.5
 *■作者より*  
 まだまだ甘い部分があるかもしれませんが、その際はPull Request等を送っていただければ幸いです。アプリ開発の中でこのサンプルが少しでもお役にたつ事ができれば嬉しい限りです。
 # DayPhoto
+# DayPhoto
